@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/diegorm-7/Luxeway.git/static/css/main.f3c398fa.css",
+    "main.js": "/diegorm-7/Luxeway.git/static/js/main.65a710fa.js",
+    "index.html": "/diegorm-7/Luxeway.git/index.html",
+    "main.f3c398fa.css.map": "/diegorm-7/Luxeway.git/static/css/main.f3c398fa.css.map",
+    "main.65a710fa.js.map": "/diegorm-7/Luxeway.git/static/js/main.65a710fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3c398fa.css",
+    "static/js/main.65a710fa.js"
+  ]
+}
